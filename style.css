@@ -128,6 +128,44 @@ html {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+#village-franchies {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#ExpressFranchises{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.express{
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+#social-pick{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
